@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/AIZO_GRAFY/cmake-build-debug/CMakeFiles/AIZO_GRAFY.dir
+C:/Users/Dawid/CLionProjects/AIZO_GRAFY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/AIZO_GRAFY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
